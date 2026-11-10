@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Your company's legal file — never commit it
+.claude/skills/client-file/
+
+# Company context (filled in during onboarding)
+.claude/skills/references/company-context.md
+
+# Uploaded documents
+*.pdf
